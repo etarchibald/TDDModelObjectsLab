@@ -1,3 +1,3 @@
 # TDDModelObjectsLab
 
-The Testable Architecture lab in in this Xcode project
+The SOLID deign Lab in in this Xcode project under SOLID Lab
